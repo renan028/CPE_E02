@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.15)  17 MAR 2018 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.15)  19 MAR 2018 23:00
 entering extended mode
 **./main.tex
 (main.tex
@@ -860,7 +860,7 @@ Package epstopdf Info: Source file: <figs/ex2e_states.eps>
 (epstopdf)                    size: 12533 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_states-eps-conver
 ted-to.pdf figs/ex2e_states.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 368.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_states-eps-converted-to.pdf, id=69, 364.36125pt x 303.1325pt>
@@ -868,7 +868,7 @@ File: figs/ex2e_states-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_states-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_states-eps-converted-to.pdf used on input li
-ne 367.
+ne 368.
 (pdftex.def)             Requested size: 211.38832pt x 175.86322pt.
 Package epstopdf Info: Source file: <figs/ex2e_j.eps>
 (epstopdf)                    date: 2018-03-17 16:20:33
@@ -878,7 +878,7 @@ Package epstopdf Info: Source file: <figs/ex2e_j.eps>
 (epstopdf)                    size: 12938 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_j-eps-converted-t
 o.pdf figs/ex2e_j.eps>
-(epstopdf)             \includegraphics on input line 371.
+(epstopdf)             \includegraphics on input line 372.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_j-eps-converted-to.pdf, id=70, 377.41pt x 303.1325pt>
@@ -886,7 +886,7 @@ File: figs/ex2e_j-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_j-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_j-eps-converted-to.pdf used on input line 37
-1.
+2.
 (pdftex.def)             Requested size: 211.38832pt x 169.78542pt.
 Package epstopdf Info: Source file: <figs/ex2e_h1.eps>
 (epstopdf)                    date: 2018-03-17 16:20:34
@@ -896,7 +896,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h1.eps>
 (epstopdf)                    size: 8048 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h1-eps-converted-
 to.pdf figs/ex2e_h1.eps>
-(epstopdf)             \includegraphics on input line 378.
+(epstopdf)             \includegraphics on input line 379.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h1-eps-converted-to.pdf, id=71, 369.38pt x 302.12875pt>
@@ -904,7 +904,7 @@ File: figs/ex2e_h1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h1-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h1-eps-converted-to.pdf used on input line 3
-78.
+79.
 (pdftex.def)             Requested size: 140.92793pt x 115.27112pt.
 Package epstopdf Info: Source file: <figs/ex2e_h2.eps>
 (epstopdf)                    date: 2018-03-17 16:20:34
@@ -914,7 +914,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h2.eps>
 (epstopdf)                    size: 8470 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h2-eps-converted-
 to.pdf figs/ex2e_h2.eps>
-(epstopdf)             \includegraphics on input line 382.
+(epstopdf)             \includegraphics on input line 383.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h2-eps-converted-to.pdf, id=72, 369.38pt x 302.12875pt>
@@ -922,7 +922,7 @@ File: figs/ex2e_h2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h2-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h2-eps-converted-to.pdf used on input line 3
-82.
+83.
 (pdftex.def)             Requested size: 140.92793pt x 115.27112pt.
 Package epstopdf Info: Source file: <figs/ex2e_h3.eps>
 (epstopdf)                    date: 2018-03-17 16:20:34
@@ -932,7 +932,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h3.eps>
 (epstopdf)                    size: 8384 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h3-eps-converted-
 to.pdf figs/ex2e_h3.eps>
-(epstopdf)             \includegraphics on input line 386.
+(epstopdf)             \includegraphics on input line 387.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h3-eps-converted-to.pdf, id=73, 369.38pt x 302.12875pt>
@@ -940,7 +940,7 @@ File: figs/ex2e_h3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h3-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h3-eps-converted-to.pdf used on input line 3
-86.
+87.
 (pdftex.def)             Requested size: 140.92793pt x 115.27112pt.
 Package epstopdf Info: Source file: <figs/ex2e_h4.eps>
 (epstopdf)                    date: 2018-03-17 16:20:34
@@ -950,7 +950,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h4.eps>
 (epstopdf)                    size: 8525 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h4-eps-converted-
 to.pdf figs/ex2e_h4.eps>
-(epstopdf)             \includegraphics on input line 393.
+(epstopdf)             \includegraphics on input line 394.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h4-eps-converted-to.pdf, id=74, 369.38pt x 302.12875pt>
@@ -958,7 +958,7 @@ File: figs/ex2e_h4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h4-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h4-eps-converted-to.pdf used on input line 3
-93.
+94.
 (pdftex.def)             Requested size: 140.92793pt x 115.27112pt.
 Package epstopdf Info: Source file: <figs/ex2e_h5.eps>
 (epstopdf)                    date: 2018-03-17 16:20:35
@@ -968,7 +968,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h5.eps>
 (epstopdf)                    size: 8629 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h5-eps-converted-
 to.pdf figs/ex2e_h5.eps>
-(epstopdf)             \includegraphics on input line 397.
+(epstopdf)             \includegraphics on input line 398.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h5-eps-converted-to.pdf, id=75, 369.38pt x 302.12875pt>
@@ -976,7 +976,7 @@ File: figs/ex2e_h5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h5-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h5-eps-converted-to.pdf used on input line 3
-97.
+98.
 (pdftex.def)             Requested size: 140.92793pt x 115.27112pt.
 Package epstopdf Info: Source file: <figs/ex2e_h6.eps>
 (epstopdf)                    date: 2018-03-17 16:20:35
@@ -986,7 +986,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h6.eps>
 (epstopdf)                    size: 8644 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h6-eps-converted-
 to.pdf figs/ex2e_h6.eps>
-(epstopdf)             \includegraphics on input line 401.
+(epstopdf)             \includegraphics on input line 402.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h6-eps-converted-to.pdf, id=76, 374.39874pt x 302.12875pt>
@@ -994,7 +994,7 @@ File: figs/ex2e_h6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h6-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h6-eps-converted-to.pdf used on input line 4
-01.
+02.
 (pdftex.def)             Requested size: 140.92793pt x 113.72673pt.
 Package epstopdf Info: Source file: <figs/ex2e_h7.eps>
 (epstopdf)                    date: 2018-03-17 16:20:35
@@ -1004,7 +1004,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h7.eps>
 (epstopdf)                    size: 8422 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h7-eps-converted-
 to.pdf figs/ex2e_h7.eps>
-(epstopdf)             \includegraphics on input line 408.
+(epstopdf)             \includegraphics on input line 409.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h7-eps-converted-to.pdf, id=77, 374.39874pt x 302.12875pt>
@@ -1012,7 +1012,7 @@ File: figs/ex2e_h7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h7-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h7-eps-converted-to.pdf used on input line 4
-08.
+09.
 (pdftex.def)             Requested size: 140.92793pt x 113.72673pt.
 Package epstopdf Info: Source file: <figs/ex2e_h8.eps>
 (epstopdf)                    date: 2018-03-17 16:20:35
@@ -1022,7 +1022,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h8.eps>
 (epstopdf)                    size: 8559 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h8-eps-converted-
 to.pdf figs/ex2e_h8.eps>
-(epstopdf)             \includegraphics on input line 412.
+(epstopdf)             \includegraphics on input line 413.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h8-eps-converted-to.pdf, id=78, 374.39874pt x 302.12875pt>
@@ -1030,7 +1030,7 @@ File: figs/ex2e_h8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h8-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h8-eps-converted-to.pdf used on input line 4
-12.
+13.
 (pdftex.def)             Requested size: 140.92793pt x 113.72673pt.
 Package epstopdf Info: Source file: <figs/ex2e_h9.eps>
 (epstopdf)                    date: 2018-03-17 16:20:36
@@ -1040,7 +1040,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h9.eps>
 (epstopdf)                    size: 8453 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h9-eps-converted-
 to.pdf figs/ex2e_h9.eps>
-(epstopdf)             \includegraphics on input line 416.
+(epstopdf)             \includegraphics on input line 417.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h9-eps-converted-to.pdf, id=79, 374.39874pt x 302.12875pt>
@@ -1048,7 +1048,7 @@ File: figs/ex2e_h9-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h9-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h9-eps-converted-to.pdf used on input line 4
-16.
+17.
 (pdftex.def)             Requested size: 140.92793pt x 113.72673pt.
  [7 <./figs/ex2e_states-eps-converted-to.pdf> <./figs/ex2e_j-eps-converted-to.p
 df> <./figs/ex2e_h1-eps-converted-to.pdf> <./figs/ex2e_h2-eps-converted-to.pdf>
@@ -1062,7 +1062,7 @@ Package epstopdf Info: Source file: <figs/ex2e_h10.eps>
 (epstopdf)                    size: 8637 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex2e_h10-eps-converted
 -to.pdf figs/ex2e_h10.eps>
-(epstopdf)             \includegraphics on input line 423.
+(epstopdf)             \includegraphics on input line 424.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex2e_h10-eps-converted-to.pdf, id=148, 374.39874pt x 302.12875pt>
@@ -1070,7 +1070,7 @@ File: figs/ex2e_h10-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex2e_h10-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex2e_h10-eps-converted-to.pdf used on input line 
-423.
+424.
 (pdftex.def)             Requested size: 140.92793pt x 113.72673pt.
  (matlab/ex3.m [8 <./figs/ex2e_h7-eps-converted-to.pdf> <./figs/ex2e_h8-eps-con
 verted-to.pdf> <./figs/ex2e_h9-eps-converted-to.pdf> <./figs/ex2e_h10-eps-conve
@@ -1083,7 +1083,7 @@ Package epstopdf Info: Source file: <figs/ex3_states.eps>
 (epstopdf)                    size: 76924 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex3_states-eps-convert
 ed-to.pdf figs/ex3_states.eps>
-(epstopdf)             \includegraphics on input line 489.
+(epstopdf)             \includegraphics on input line 490.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex3_states-eps-converted-to.pdf, id=187, 367.3725pt x 305.14pt>
@@ -1091,7 +1091,7 @@ File: figs/ex3_states-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex3_states-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex3_states-eps-converted-to.pdf used on input lin
-e 489.
+e 490.
 (pdftex.def)             Requested size: 211.38832pt x 175.58449pt.
 Package epstopdf Info: Source file: <figs/ex3_j.eps>
 (epstopdf)                    date: 2018-03-17 18:48:36
@@ -1101,14 +1101,14 @@ Package epstopdf Info: Source file: <figs/ex3_j.eps>
 (epstopdf)                    size: 15384 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex3_j-eps-converted-to
 .pdf figs/ex3_j.eps>
-(epstopdf)             \includegraphics on input line 493.
+(epstopdf)             \includegraphics on input line 494.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/ex3_j-eps-converted-to.pdf, id=188, 361.35pt x 305.14pt>
 File: figs/ex3_j-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex3_j-eps-converted-to.pdf>
-Package pdftex.def Info: figs/ex3_j-eps-converted-to.pdf used on input line 493
+Package pdftex.def Info: figs/ex3_j-eps-converted-to.pdf used on input line 494
 .
 (pdftex.def)             Requested size: 211.38832pt x 178.50385pt.
  [10 <./figs/ex3_states-eps-converted-to.pdf> <./figs/ex3_j-eps-converted-to.pd
@@ -1137,9 +1137,9 @@ ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/renan/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
 s/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
 pfb>
-Output written on main.pdf (10 pages, 354862 bytes).
+Output written on main.pdf (10 pages, 356151 bytes).
 PDF statistics:
- 450 PDF objects out of 1000 (max. 8388607)
+ 452 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

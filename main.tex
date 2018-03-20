@@ -291,6 +291,7 @@ randômico (distribuição uniforme) entre 1 e 4:
 $\text{randi}(4)$. Removemos o estadoo atual da lista: $\text{list} = [2
 \quad 3 \quad 4 \quad 5]$. O número randômico será o índice do elemento que
 utilizaremos como próximo candidato para estado $X(1)$: 
+
 \begin{align}
 \nonumber \text{randi}(4) &= 4 \\
 \nonumber \text{list} &= [2
@@ -493,6 +494,13 @@ e $\text{J}_\text{min} = 0.3474$.
         \includegraphics[width=\textwidth]{figs/ex3_j.eps}
     \end{subfigure}
 \end{figure}
+
+Verificou-se que o SA teve certa dificuldade em encontrar o mínimo global peloo
+grande número de mínimos locais. O algoritmo necessitou de $5000$ iterações
+para temperaturas baixas. Com um número menor de iterações (como $4000$) o
+algoritmo SA não foi capaz de encontrar o mínimo. Além disso, o algoritmo é
+sensível ao resfriamento (variável Temperatura), pois um resfriamento rápido ou
+temperaturas iniciais baixas imopossibilitaram a convergência. 
 
 \end{exercise}
  
